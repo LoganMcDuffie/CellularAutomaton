@@ -1,3 +1,4 @@
+#         -- WHAT THIS SHOULD ACCOMPLISH --
 # Define a procedure, split_string, that takes two
 # inputs: the string to split and a string containing
 # all of the characters considered separators. The
